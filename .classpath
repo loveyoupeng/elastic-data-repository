@@ -25,6 +25,8 @@
   <classpathentry path="/home/loveyoupeng/.ivy2/cache/org.specs2/specs2-scalaz-concurrent_2.10/jars/specs2-scalaz-concurrent_2.10-7.0.0.jar" kind="lib"></classpathentry>
   <classpathentry path="/home/loveyoupeng/.ivy2/cache/org.specs2/scalaz-effect_2.10/jars/scalaz-effect_2.10-7.0.0.jar" kind="lib"></classpathentry>
   <classpathentry path="/home/loveyoupeng/.ivy2/cache/org.specs2/scalaz-core_2.10/jars/scalaz-core_2.10-7.0.0.jar" kind="lib"></classpathentry>
+  <classpathentry path="/home/loveyoupeng/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.10.0.jar" kind="lib"></classpathentry>
+  <classpathentry path="/home/loveyoupeng/.ivy2/cache/org.scalatest/scalatest_2.10/jars/scalatest_2.10-2.0.M5b.jar" kind="lib"></classpathentry>
   <classpathentry path="org.eclipse.jdt.launching.JRE_CONTAINER" kind="con"></classpathentry>
   <classpathentry path="bin" kind="output"></classpathentry>
 </classpath>
