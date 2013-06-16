@@ -22,6 +22,6 @@ class NamedEntitySpec extends Specification with ScalaCheck {
     (nameString: String) => (text: String) => Name(nameString)
 
   val sameContent: Then[Name] =
-    (name: Name) => (text: String) => name.name must beEqualTo(text)
+    (name: Name) => (text: String) => name.value must beEqualTo(text)
 
 }
